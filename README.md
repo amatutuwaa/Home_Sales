@@ -4,7 +4,7 @@ Home Sales Data Analysis with SparkSQL
 Welcome to my Home Sales Data Analysis repository! In this project, I utilize the power of SparkSQL to derive key metrics from home sales data. Through Spark, I create temporary views, partition the data, cache and uncache temporary tables, and verify table caching status.
 
 
-##Project Overview
+## Project Overview
 
 In this project, I work with a dataset of home sales data and leverage SparkSQL to answer important questions about the data. The tasks include creating temporary views, performing calculations on the data, and comparing query runtimes. Here is an overview of the tasks involved:
 
@@ -25,6 +25,6 @@ In this project, I work with a dataset of home sales data and leverage SparkSQL 
  15. Uncache the "home_sales" temporary table and verify its uncached status using PySpark.
  
  
- ##Repository Contents
+ ## Repository Contents
  1. Home_Sales.ipynb: The Jupyter Notebook that contains the code for the Home Sales Data Analysis using SparkSQL.
  
